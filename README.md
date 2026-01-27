@@ -18,11 +18,14 @@ This repository contains the laboratory practical assignments for **C# .NET (BCA
 
 | ID | Problem Definition | Status | Directory |
 | :--- | :--- | :---: | :---: |
-| **U2P1** | Write a program to print "Hello world". | ✅ Completed | [Link](./U2P1) |
-| **U2P2** | Input 2 numbers and an arithmetic operator to display the result. | ✅ Completed | [Link](./U2P2) |
-| **U2P3** | Write a program to input principal amount, rate and year and display the simple interest. | ✅ Completed | [Link](./U2P3) |
-| **U2P4** | Write a program to input principal amount, rate and year and display the compound interest. | ✅ Completed | [Link](./U2P4) |
-| **U2P5** | Write a program to input radius of a circle, and print area of that circle. | ✅ Completed | [Link](./U2P5) |
+| **Program1** | Write a program to print "Hello world". | ✅ Completed | [Link](./Program1) |
+| **Program2** | Input 2 numbers and an arithmetic operator to display the result. | ✅ Completed | [Link](./Program2) |
+| **Program3** | Write a program to input principal amount, rate and year and display the simple interest. | ✅ Completed | [Link](./Program3) |
+| **Program4** | Write a program to input principal amount, rate and year and display the compound interest. | ✅ Completed | [Link](./Program4) |
+| **Program5** | Write a program to input radius of a circle, and print area of that circle. | ✅ Completed | [Link](./Program5) |
+| **Program6** | Write a program to check the number is even or odd. | ✅ Completed | [Link](./Program6) |
+| **Program7** | Write a program to input age of person and display message as follows. | ✅ Completed | [Link](./Program7) |
+| **Program8** | Write a program to find factorial of a given number. | ✅ Completed | [Link](./Program8) |
 
 ## 🚀 How to Run
 
