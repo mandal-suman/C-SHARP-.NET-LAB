@@ -35,9 +35,9 @@ Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
     ```bash
     git clone [repo-url]
     ```
-2.  **Navigate to a practical (e.g., U2P1):**
+2.  **Navigate to a practical (e.g., Program1):**
     ```bash
-    cd U2P1
+    cd Program1
     ```
 3.  **Run the application:**
     ```bash
