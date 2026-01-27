@@ -26,6 +26,7 @@ This repository contains the laboratory practical assignments for **C# .NET (BCA
 | **Program6** | Write a program to check the number is even or odd. | ✅ Completed | [Link](./Program6) |
 | **Program7** | Write a program to input age of person and display message as follows. | ✅ Completed | [Link](./Program7) |
 | **Program8** | Write a program to find factorial of a given number. | ✅ Completed | [Link](./Program8) |
+| **Program9** | Write a program to find Fibonacci series up to a number inputted by user. | ✅ Completed | [Link](./Program9) |
 
 ## 🚀 How to Run
 
