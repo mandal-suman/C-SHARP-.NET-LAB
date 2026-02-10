@@ -27,6 +27,11 @@ This repository contains the laboratory practical assignments for **C# .NET (BCA
 | **Program7** | Write a program to input age of person and display message as follows. | ✅ Completed | [Link](./Program7) |
 | **Program8** | Write a program to find factorial of a given number. | ✅ Completed | [Link](./Program8) |
 | **Program9** | Write a program to find Fibonacci series up to a number inputted by user. | ✅ Completed | [Link](./Program9) |
+| **Program10** | Write a program to find Fibonacci series up to a number inputted by user. | ✅ Completed | [Link](./Program10) |
+| **Program11** | Write a program to find all prime numbers between two values inputted by the user. | ✅ Completed | [Link](./Program11) |
+| **Program12** | Write a program to Calculate sum of the number inputted by the user for e.g. if user has inputted 1234 then it's sum is 10. | ✅ Completed | [Link](./Program12) |
+| **Program13** | Write a program to find minimum of three numbers using conditional operator. | ✅ Completed | [Link](./Program13) |
+| **Program14** | Write a program to check weather a number is palindrome or not e.g. input: 121, output: It is palindrome input:124, output: It is not palindrome. | ✅ Completed | [Link](./Program14) |
 
 ## 🚀 How to Run
 
